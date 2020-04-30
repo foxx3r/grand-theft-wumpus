@@ -9,7 +9,7 @@ Now, generate the map:
 
 `(new-game)`
 
-And then, load the city.png whether you don't want to see the full map, or load the unknown-city.png, then, reload while you're executing the functions.
+And then, load the city.png whether you don't want to see the full map, or load the known-city.png, then, reload while you're executing the functions.
 
 To see your current location, you'll need seeing city.png, and then, you can exexute these functions:
 
