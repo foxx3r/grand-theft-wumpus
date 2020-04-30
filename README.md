@@ -1,7 +1,7 @@
 # grand-theft-wumpus
 That's a game like GTA, it's based on game "Hunt the Wumpus".
 
-To play that game, run on SBCL on CLISP:
+To play that game, run on SBCL or CLISP:
 
 `(load "game")`
 
